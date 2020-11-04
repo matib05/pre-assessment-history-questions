@@ -1,0 +1,14 @@
+.header-title {
+  margin-right: 1rem;
+  color: antiquewhite;
+}
+
+.question-container {
+  margin-top: 2rem;
+  font-size: large;
+}
+
+.choices-container {
+  margin-top: 2rem;
+  font-size: large;
+}
